@@ -1,0 +1,3 @@
+[29-Feb-2016 08:14:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'more' (T_STRING) in /home/cemvs268/public_html/admin/erros/_models/insert_msg_erro.php on line 69
+[01-Mar-2016 10:51:24 America/Araguaina] PHP Fatal error:  Call to a member function query() on a non-object in /home/cemvs268/public_html/admin/_classes/class.suporte.php on line 10
+[01-Mar-2016 10:51:56 America/Araguaina] PHP Fatal error:  Call to a member function query() on a non-object in /home/cemvs268/public_html/admin/_classes/class.suporte.php on line 10

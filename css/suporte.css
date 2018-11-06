@@ -1,0 +1,145 @@
+/***
+* ASSISTENCIA DO SISTEMA
+***/
+.ftxb-msg-body{
+    background:rgba(219, 215, 192,1);
+    padding:10px 10px 10px 10px;
+    width:auto;
+    word-break: keep-all;
+    box-shadow: 3px 3px 0px 0px rgba(0,0,0,0.3);
+    position: relative;
+    margin:10px auto;
+    z-index:9999;
+    font: 14px cursive;
+    -webkit-transition: width ease 1s;
+}
+
+.ftxb-msg-admin-arrow,
+.ftxb-msg-user-arrow{
+    position: absolute;
+    z-index:-1 !important;
+    top:6px;
+}
+
+.ftxb-msg-admin-arrow{
+    border-top:15px solid rgba(219, 215, 192,1);
+    border-bottom:15px solid transparent;
+    border-left:15px solid transparent;
+    left:-15px;
+}
+.ftxb-msg-user-arrow{
+    border-top:15px solid rgba(219, 215, 192,1);
+    border-bottom:15px solid transparent;
+    border-right:15px solid transparent;
+    right:-15px;
+}
+.ftxb-msg-admin{
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius:10px;
+    border-bottom-right-radius: 15px;
+}
+.ftxb-msg-user{
+    border-top-left-radius: 10px;
+    border-top-right-radius:5px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 20px;
+}
+.ftxb-msg-admin img,
+.ftxb-msg-user img{
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    position: absolute;
+    top:-15px;
+    text-align: center;
+}
+.ftxb-msg-admin img{
+    left:-55px;
+}
+.ftxb-msg-user img{
+    right:-55px;
+}
+
+.ftxb-time-admin{
+    display: block;
+}
+
+.ftxb-time-user{
+    display: block;
+    text-align: right;
+}
+
+/* Desktop maiores */
+@media (min-width: 1000px) {
+    .ftxb-suporte{
+        width: 768px;
+        margin:0px auto;
+    }
+    .ftxb-time-admin,
+    .ftxb-time-user{
+        font: 12px cursive;
+        position: relative;
+        margin-bottom: 2px;
+        color:rgba(0,0,0,0.5);
+    }
+}
+/* tables em formato porta retrato até os desktos no formato paisagem */
+@media (min-width: 768px) and (max-width: 979px) { 
+    .ftxb-time-admin,
+    .ftxb-time-user{
+        font:8px cursive;
+        position: relative;
+        margin-bottom: 2px;
+        color:rgba(0,0,0,0.5);
+    }
+    .row-fluid{
+        width: 80%;
+        margin:0px auto;
+    }
+    h2{
+        text-align: center;
+        color:rgb(60,60,60);
+        font:20px arial;
+    }
+}
+
+/* dispositivo em paisagem até os tablets em formato porta-retrato */
+@media (max-width: 767px) { 
+    .ftxb-time-admin,
+    .ftxb-time-user{
+        font:8px cursive;
+        position: relative;
+        margin-bottom: 2px;
+        color:rgba(0,0,0,0.5);
+    }
+    .ftxb-suporte{
+        width: 65%;
+        margin:0px auto;
+    }
+    h2{
+        text-align: center;
+        color:rgb(60,60,60);
+        font:20px arial;
+    }
+}
+
+/* dispositivo no formato paisagem e abaixos */
+@media (max-width: 480px) {
+    .ftxb-time-admin,
+    .ftxb-time-user{
+        font:8px cursive;
+        position: relative;
+        margin-bottom: 2px;
+        color:rgba(0,0,0,0.5);
+    }
+    .ftxb-suporte{
+        width: 65%;
+        margin:0px auto;
+    }
+    h2{
+        text-align: center;
+        color:rgb(60,60,60);
+        font:20px arial;
+    }
+}

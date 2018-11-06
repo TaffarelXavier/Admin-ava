@@ -1,0 +1,79 @@
+
+
+.tx_emoji{
+    margin:1px;
+    width: 48px;
+    height: 48px;
+    border:2px solid white;
+}
+.tx_emoji:hover{
+    border:2px solid #ccc;
+    cursor:pointer;
+}
+.tx_emoji:active{
+    border:2px solid gold;
+    cursor:pointer;
+}
+.tx_emoji1{
+    background: url('../img/i4zO84sT9GF.png') no-repeat 0 0;
+}
+.tx_emoji2{
+    background: url('../img/i4zO84sT9GF.png') no-repeat 0 -48px;
+}
+.tx_emoji3{
+    background: url('../img/i4zO84sT9GF.png') no-repeat 0 -97px;
+}
+.tx_emoji4{
+    background: url('../img/i4zO84sT9GF.png') no-repeat 0 -145px;
+}
+.tx_emoji5{
+    background: url('../img/i4zO84sT9GF.png') no-repeat 0 -194px;
+
+}
+.tx_emoji6{
+    background: url('../img/i4zO84sT9GF.png') no-repeat 0 -242px;
+}
+.tx_emoji7{
+    background: url('../img/i4zO84sT9GF.png') no-repeat 0 -291px;
+}
+
+.tx_emoji[class*="tx_emoji"]{
+    background-size: 49px 511px;
+}
+
+.tx_emoji16_tx_emoji1{
+    background: url('../img/i4zO84sT9GF.png') no-repeat 0 -339px;
+    background-size: 49px 511px;
+}
+
+.tx_emoji16_tx_emoji2{
+    background: url('../img/i4zO84sT9GF.png') no-repeat 0 -364px;
+    background-size: 49px 511px;  
+}
+
+.tx_emoji16_tx_emoji3{
+    background: url('../img/i4zO84sT9GF.png') no-repeat 0 -388px;
+    background-size: 49px 511px;
+}
+.tx_emoji16_tx_emoji4{
+    background: url('../img/i4zO84sT9GF.png') no-repeat 0 -413px;
+    background-size: 49px 511px;
+}
+.tx_emoji16_tx_emoji5{
+    background: url('../img/i4zO84sT9GF.png') no-repeat 0 -437px;
+    background-size: 49px 511px;
+}
+.tx_emoji16_tx_emoji6{
+    background: url('../img/i4zO84sT9GF.png') no-repeat 0 -462px;
+    background-size: 49px 511px;
+}
+.tx_emoji16_tx_emoji7{
+    background: url('../img/i4zO84sT9GF.png') no-repeat 0 -486px;
+    background-size: 49px 511px;
+}
+
+.tx16emoji{
+    width: 24px;
+    height: 24px;
+    display:inline-table;
+}

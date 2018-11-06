@@ -1,0 +1,81 @@
+[16-Feb-2016 17:36:51 America/Araguaina] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/cemvs268/public_html/admin/_classes/class.backup_db.php on line 125
+[16-Feb-2016 17:37:02 America/Araguaina] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/cemvs268/public_html/admin/_classes/class.backup_db.php on line 125
+[16-Feb-2016 17:46:26 America/Araguaina] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/cemvs268/public_html/admin/_classes/class.backup_db.php on line 125
+[19-Feb-2016 08:58:04 America/Araguaina] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/cemvs268/public_html/admin/_classes/class.backup_db.php on line 125
+[01-Mar-2016 23:39:15 America/Araguaina] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/cemvs268/public_html/admin/_classes/class.backup_db.php on line 125
+[01-Mar-2016 23:40:33 America/Araguaina] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/cemvs268/public_html/admin/_classes/class.backup_db.php on line 125
+[02-Mar-2016 15:19:45 America/Araguaina] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/cemvs268/public_html/admin/_classes/class.backup_db.php on line 125
+[24-Apr-2016 10:43:50 America/Araguaina] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/cemvs268/public_html/admin/_classes/class.backup_db.php on line 125
+[24-Apr-2016 10:44:21 America/Araguaina] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/cemvs268/public_html/admin/_classes/class.backup_db.php on line 125
+[29-Apr-2016 02:05:34 America/Araguaina] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 81 bytes) in /home/cemvs268/public_html/admin/_classes/class.backup_db.php on line 170
+[29-Apr-2016 11:52:17 America/Araguaina] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/cemvs268/public_html/admin/_classes/class.backup_db.php on line 125
+[29-Apr-2016 11:54:48 America/Araguaina] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/cemvs268/public_html/admin/_classes/class.backup_db.php on line 125
+[29-Apr-2016 11:55:10 America/Araguaina] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/cemvs268/public_html/admin/_classes/class.backup_db.php on line 125
+[29-Apr-2016 12:02:30 America/Araguaina] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 72 bytes) in /home/cemvs268/public_html/admin/_classes/class.backup_db.php on line 170
+[29-Apr-2016 12:03:01 America/Araguaina] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 72 bytes) in /home/cemvs268/public_html/admin/_classes/class.backup_db.php on line 170
+[29-Apr-2016 12:19:07 America/Araguaina] PHP Fatal error:  Out of memory (allocated 316407808) (tried to allocate 32 bytes) in /home/cemvs268/public_html/admin/_classes/class.backup_db.php on line 170
+[29-Apr-2016 12:21:08 America/Araguaina] PHP Fatal error:  Out of memory (allocated 316407808) (tried to allocate 72 bytes) in /home/cemvs268/public_html/admin/_classes/class.backup_db.php on line 171
+[29-Apr-2016 10:26:23 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 10:26:23 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:26:28 America/Araguaina] PHP Fatal error:  Out of memory (allocated 342097920) (tried to allocate 22282404 bytes) in /home/cemvs268/public_html/admin/_classes/class.backup_db.php on line 177
+[29-Apr-2016 10:27:47 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 10:27:47 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:27:52 America/Araguaina] PHP Fatal error:  Out of memory (allocated 342097920) (tried to allocate 22282404 bytes) in /home/cemvs268/public_html/admin/_classes/class.backup_db.php on line 176
+[29-Apr-2016 12:33:06 America/Araguaina] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:33:06 America/Araguaina] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:33:11 America/Araguaina] PHP Fatal error:  Out of memory (allocated 342097920) (tried to allocate 22282404 bytes) in /home/cemvs268/public_html/admin/_classes/class.backup_db.php on line 176
+[29-Apr-2016 12:35:18 America/Araguaina] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:35:18 America/Araguaina] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:36:05 America/Araguaina] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:36:05 America/Araguaina] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:37:18 America/Araguaina] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:37:18 America/Araguaina] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:37:23 America/Araguaina] PHP Fatal error:  Out of memory (allocated 342097920) (tried to allocate 22282404 bytes) in /home/cemvs268/public_html/admin/_classes/class.backup_db.php on line 176

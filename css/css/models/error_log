@@ -1,0 +1,32 @@
+[05-Mar-2016 20:00:26 America/Chicago] PHP Warning:  fopen(/home/cemvs268/public_htmlava/file_config_ini.ini): failed to open stream: No such file or directory in /home/cemvs268/public_html/admin/css/css/models/run.php on line 19
+[05-Mar-2016 20:00:26 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/cemvs268/public_html/admin/css/css/models/run.php on line 21
+[09-May-2016 16:15:10 America/Araguaina] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[09-May-2016 16:15:10 America/Araguaina] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[09-May-2016 16:15:16 America/Araguaina] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[09-May-2016 16:15:16 America/Araguaina] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[09-May-2016 16:26:05 America/Araguaina] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[09-May-2016 16:26:05 America/Araguaina] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0

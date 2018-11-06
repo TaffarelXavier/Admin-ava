@@ -1,0 +1,5 @@
+# BEGIN custom php.ini PHP54
+<IfModule mod_suphp.c>
+    suPHP_ConfigPath /home/cemvs268/public_html/admin
+</IfModule>
+# END custom php.ini

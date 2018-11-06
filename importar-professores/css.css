@@ -1,0 +1,108 @@
+body{
+    background:rgba(200,200,200,.1) url(background.png) no-repeat;
+    background-size: 100% 50px;
+    padding:0px;
+    margin:0px;
+    padding-top:50px;
+}
+.menu-topo{
+    border:1px solid #ccc;
+    border-bottom: 5px solid black;
+    height: 40px;
+    padding:0px;
+    background:#ccc;
+}
+#btnSair{
+    float:right;
+    position: relative;
+    right:10px;
+    top: 9px;
+}
+#voltar{
+    float:right;
+    position: relative;
+    right:12px;
+    top: 9px;
+}
+table{
+    border-collapse: collapse;
+}
+table > thead > tr > th{
+    text-align: left;
+} 
+.checkbox{
+    width: 20px;
+    text-align: center;
+}
+.id{
+    width: 20px;
+    text-align: center;
+}
+#selecionarTudo{
+    cursor: pointer;
+}
+
+.layer1{
+    width: 35%;
+    float:left;
+    max-height: 400px;
+    overflow: auto;
+    box-shadow:0px 0px 5px 0px rgba(0,0,0,0.3);
+    padding:10px;
+}
+.layer2{
+    width: 62%;
+    float:left;
+    padding:4px;
+}
+.sucesso{
+    color:green;
+    font:12px sans-serif;
+}
+h1{
+    text-align: center;
+    float:left;
+    margin:0px;
+    padding:0px;
+}
+.formulario{
+    margin:0px auto;
+}
+fieldset{
+    width: 200px;
+    margin:0px auto;
+    text-align: left;
+    border:0;
+    border:1px solid #ccc;
+    background:white;
+    box-shadow:0px 0px 5px 0px rgba(0,0,0,0.3);
+}
+legend{
+    background:white;
+    box-shadow:0px 0px 5px 0px rgba(0,0,0,0.5);
+    padding:2px 5px;
+}
+fieldset input{
+    width: 98%;
+}
+.usPasIncor{
+    display: block;
+    color:red;
+    text-align:center;
+}
+hr{
+    border:0;
+    border-top:1px solid #ccc;
+}
+.buttonLogado{
+    color:red;
+    border:1px solid #ccc;
+}
+
+
+#btnFazerLogin{
+    width: 100%;
+    margin:0px;
+    padding:4px;
+    font:bold 15px sans-serif;
+}

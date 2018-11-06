@@ -1,0 +1,171 @@
+[09-Nov-2015 17:59:50 America/Araguaina] PHP Warning:  opendir(/home/cemvs268/public_htmladmin/backup): failed to open dir: No such file or directory in /home/cemvs268/public_html/admin/backup/views/arquivos_de_backups.php on line 4
+[09-Nov-2015 18:00:59 America/Araguaina] PHP Warning:  filesize(): stat failed for /home/cemvs268/public_htmladmin/backup/09-11-2015 02-49-04 cemvs_db.sql in /home/cemvs268/public_html/admin/backup/views/arquivos_de_backups.php on line 34
+[09-Nov-2015 18:00:59 America/Araguaina] PHP Warning:  filesize(): stat failed for /home/cemvs268/public_htmladmin/backup/09-11-2015 02-49-02 cemvs_db.sql in /home/cemvs268/public_html/admin/backup/views/arquivos_de_backups.php on line 34
+[09-Nov-2015 18:00:59 America/Araguaina] PHP Warning:  filesize(): stat failed for /home/cemvs268/public_htmladmin/backup/09-11-2015 02-48-56 cemvs_db.sql in /home/cemvs268/public_html/admin/backup/views/arquivos_de_backups.php on line 34
+[09-Nov-2015 18:00:59 America/Araguaina] PHP Warning:  filesize(): stat failed for /home/cemvs268/public_htmladmin/backup/09-11-2015 02-42-42 cemvs_db.sql in /home/cemvs268/public_html/admin/backup/views/arquivos_de_backups.php on line 34
+[09-Nov-2015 18:01:24 America/Araguaina] PHP Warning:  filesize(): stat failed for /home/cemvs268/public_htmladmin/backup/09-11-2015 02-49-02 cemvs_db.sql in /home/cemvs268/public_html/admin/backup/views/arquivos_de_backups.php on line 34
+[09-Nov-2015 18:01:24 America/Araguaina] PHP Warning:  filesize(): stat failed for /home/cemvs268/public_htmladmin/backup/09-11-2015 02-48-56 cemvs_db.sql in /home/cemvs268/public_html/admin/backup/views/arquivos_de_backups.php on line 34
+[09-Nov-2015 18:01:24 America/Araguaina] PHP Warning:  filesize(): stat failed for /home/cemvs268/public_htmladmin/backup/09-11-2015 02-42-42 cemvs_db.sql in /home/cemvs268/public_html/admin/backup/views/arquivos_de_backups.php on line 34
+[09-Nov-2015 18:01:28 America/Araguaina] PHP Warning:  filesize(): stat failed for /home/cemvs268/public_htmladmin/backup/09-11-2015 02-48-56 cemvs_db.sql in /home/cemvs268/public_html/admin/backup/views/arquivos_de_backups.php on line 34
+[09-Nov-2015 18:01:28 America/Araguaina] PHP Warning:  filesize(): stat failed for /home/cemvs268/public_htmladmin/backup/09-11-2015 02-42-42 cemvs_db.sql in /home/cemvs268/public_html/admin/backup/views/arquivos_de_backups.php on line 34
+[09-Nov-2015 18:01:39 America/Araguaina] PHP Warning:  filesize(): stat failed for /home/cemvs268/public_htmladmin/backup/09-11-2015 02-42-42 cemvs_db.sql in /home/cemvs268/public_html/admin/backup/views/arquivos_de_backups.php on line 34
+[29-Apr-2016 10:26:21 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 10:26:21 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 10:26:28 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 10:26:28 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 10:26:59 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 10:26:59 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 10:27:27 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 10:27:27 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 10:27:46 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 10:27:46 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 10:27:52 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 10:27:52 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:33:11 America/Araguaina] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:33:11 America/Araguaina] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:35:12 America/Araguaina] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:35:12 America/Araguaina] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:35:17 America/Araguaina] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:35:17 America/Araguaina] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:35:19 America/Araguaina] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:35:19 America/Araguaina] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:35:25 America/Araguaina] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:35:25 America/Araguaina] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:36:04 America/Araguaina] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:36:04 America/Araguaina] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:36:05 America/Araguaina] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:36:05 America/Araguaina] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:37:16 America/Araguaina] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:37:16 America/Araguaina] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:37:24 America/Araguaina] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[29-Apr-2016 12:37:24 America/Araguaina] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[03-May-2016 08:49:16 America/Araguaina] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
+[03-May-2016 08:49:16 America/Araguaina] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20121212
+These options need to match
+ in Unknown on line 0
